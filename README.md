@@ -15,7 +15,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Printlab Beverage Can Opener , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/beverage-can-opener-from-printlab/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Printlab Beverage Can Opener, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/beverage-can-opener-from-printlab/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -30,7 +30,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 All of the print files can be in the [/Build_Files/3D_Print_Files](/Build_Files/3D_Print_Files/) folder.
 
-Detailed instructions about 3D Printing settings can be found in the [3D Printing Guide](/Documentation/Printlab_Beverage_Can_Opener_3D_Printing_Guide_V1.0.pdf)
+Detailed instructions about 3D Printing settings can be found in the [3D Printing Guide](/Documentation/Printlab_Beverage_Can_Opener_3D_Printing_Guide_V1.0.pdf).
 
 ## Files
 ### Documentation
@@ -75,13 +75,6 @@ We are committed to creating a network of volunteer makers who support people wi
  - GitHub: [https://github.com/makersmakingchange](https://github.com/makersmakingchange)
  - Twitter: [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
-
-## How you can get involved
-1. Help design a solution 
-
-1. 
-3.
-
 
 ## Contact Us
 
