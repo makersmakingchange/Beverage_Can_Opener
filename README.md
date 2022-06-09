@@ -36,12 +36,12 @@ Detailed instructions about 3D Printing settings can be found in the [3D Printin
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Printlab_Beverage_Opener_Design_Rationale](/Documentation/Printlab_Beverage_Opener_Design_Rationale_V1.0.pdf/)     |
-| Maker Checklist      | 1.0     | [Printlab_Beverage_Opener_Maker_Checklist](/Documentation/Printlab_Beverage_Opener_Maker_Checklist_V1.0.pdf/)     |
-| Bill of Materials    | 1.0     | [Printlab_Beverage_Opener_Bill_of_Materials](/Documentation/Printlab_Beverage_Opener_BOM_V1.0.csv/)     |
-| 3D Printing Guide    | 1.0     | [Printlab_Beverage_Opener_3D_Printing_Guide](/Documentation/Printlab_Beverage_Opener_3D_Printing_Guide_V1.0.pdf/)     |
-| User Guide           | 1.0     | [Printlab_Beverage_Opener_User_Guide](/Documentation/Printlab_Beverage_Opener_User_Guide_V1.0.pdf/)    |
-| Changelog            | 1.0     | [Printlab_Beverage_Opener_Changelog](/Documentation/Printlab_Beverage_Opener_Changelog_V1.0.pdf/)     |
+| Design Rationale     | 1.0     | [Printlab_Beverage_Opener_Design_Rationale](/Documentation/Printlab_Beverage_Can_Opener_Design_Rationale_V1.0.pdf)     |
+| Maker Checklist      | 1.0     | [Printlab_Beverage_Opener_Maker_Checklist](/Documentation/Printlab_Beverage_Can_Opener_Maker_Checklist_V1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Printlab_Beverage_Opener_Bill_of_Materials](/Documentation/Printlab_Beverage_Can_Opener_BOM_V1.0.csv)     |
+| 3D Printing Guide    | 1.0     | [Printlab_Beverage_Opener_3D_Printing_Guide](/Documentation/Printlab_Beverage_Can_Opener_3D_Printing_Guide_V1.0.pdf)     |
+| User Guide           | 1.0     | [Printlab_Beverage_Opener_User_Guide](/Documentation/Printlab_Beverage_Can_Opener_User_Guide_V1.0.pdf)    |
+| Changelog            | 1.0     | [Printlab_Beverage_Opener_Changelog](/Documentation/Printlab_Beverage_Can_Opener_Changelog_V1.0.pdf)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
