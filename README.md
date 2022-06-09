@@ -1,7 +1,7 @@
 # Printlab Beverage Can Opener
 A tool to open beverage cans with a simple hook and lever motion.
 
-<img src="Photos/Printlab_Can_OPener_Close-up.jpg" width="500" alt="Picture of Printlab Can Opener.">
+<img src="Photos/Printlab_Can_Opener_Close-up.jpg" width="500" alt="Picture of Printlab Can Opener.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/beverage-can-opener-from-printlab/)
@@ -24,24 +24,15 @@ If you have the skills and equipment to build this device, and would like to don
 
 ## Getting Started
 
-### 1. Read the Makers Checklist
+### 1. Read the [Makers Checklist](/Documentation/Printlab_Beverage_Opener_Maker_Checklist_V1.0.pdf)
 
 The Makers Checklist 
 
-### 2. Order the Off-The-Shelf Components
+### 2. Print the Device
 
-The [Bill of Materials](/Documentation/Device-Name_BOM.xlsx) lists all of the parts and components required to build the Open Wobble Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+All of the print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
-
-### 3. Print the 3D Printable components
-
-Print the components ...
-
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
-
-### 4. Assemble the <Device-Name>...
-
-Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Detailed instructions about 3D Printing settings can be found in the [3D Printing Guide](/Documentation/Printlab_Beverage_Opener_3D_Printing_Guide_V1.0.pdf)
 
 ## Files
 ### Documentation
