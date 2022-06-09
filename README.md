@@ -24,13 +24,13 @@ If you have the skills and equipment to build this device, and would like to don
 
 ## Getting Started
 
-### 1. Read the [Makers Checklist](/Documentation/Printlab_Beverage_Opener_Maker_Checklist_V1.0.pdf)
+### 1. Read the [Makers Checklist](/Documentation/Printlab_Beverage_Can_Opener_Maker_Checklist_V1.0.pdf)
 
 ### 2. Print the Device
 
 All of the print files can be in the [/Build_Files/3D_Print_Files](/Build_Files/3D_Print_Files/) folder.
 
-Detailed instructions about 3D Printing settings can be found in the [3D Printing Guide](/Documentation/Printlab_Beverage_Opener_3D_Printing_Guide_V1.0.pdf)
+Detailed instructions about 3D Printing settings can be found in the [3D Printing Guide](/Documentation/Printlab_Beverage_Can_Opener_3D_Printing_Guide_V1.0.pdf)
 
 ## Files
 ### Documentation
