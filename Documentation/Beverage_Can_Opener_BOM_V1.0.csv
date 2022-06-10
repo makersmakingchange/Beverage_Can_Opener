@@ -1,8 +1,8 @@
-﻿Device: Beverage Can Opener,,Total Cost,Total Print time (hr),Total filament (g),,,,,,,
-Version: V1.0,Date Created: 6/07/2022, $0.13 ,0.63,5,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-3D Printed Parts                                                                                     ESTIMATED PRICING USING 1KG ROLL COST:, $25.00 ,,,,,,,,,,
-Part,Description,Quantity Needed,TOTAL Mass (g),Estimated Price,Print Time (Min),Link,,,,,
-Beverage_Can_Opener.stl,"The fully funtional Beverage Can Opener from Printlab, in a single piece.",1,5, $0.13 ,38,https://github.com/makersmakingchange/Beverage_Can_Opener/settings,,,,,
-,,,Total Print Cost:, $0.13 ,,,,,,,
+﻿Device: Beverage Can Opener,,Total Cost,Total Print time (hr),Total filament (g),,
+Version: V1.0,Date Created: 6/07/2022,$0.13,0.63,5,,
+,,,,,,
+,,,,,,
+3D Printed Parts                                                                                     ESTIMATED PRICING USING 1KG ROLL COST:,$25.00,,,,,
+Part,Description,Quantity Needed,TOTAL Mass (g),Estimated Price,Print Time (Min),Link
+Beverage_Can_Opener.stl,"The fully funtional Beverage Can Opener from Printlab, in a single piece.",1,5,$0.13,38,https://github.com/makersmakingchange/Beverage_Can_Opener/tree/main/Build_Files/3D_Print_Files
+,,,Total Print Cost:,$0.13,,
