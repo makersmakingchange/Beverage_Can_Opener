@@ -5,8 +5,6 @@ A tool to open beverage cans with a simple hook and lever motion.
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/beverage-can-opener-from-printlab/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/printlab-beverage-can-opener/)
-
 
 ## How to Obtain a Beverage Can Opener
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -62,8 +60,8 @@ Everything needed or used to design, make, test, or prepare the Beverage Can Ope
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><Device-Name></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
-
-
+---
+<!-- ABOUT MMC START -->
 ## About Us
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -79,3 +77,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
