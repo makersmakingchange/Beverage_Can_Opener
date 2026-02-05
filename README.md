@@ -1,10 +1,12 @@
 # Beverage Can Opener
-A tool to open beverage cans with a simple hook and lever motion.
+The Beverage Can Opener provides an easy way for people with limited finger dexterity and strength to open pull tabs on a beverage can with little strength required. This design is only compatible with pull tabs with two holes.
+
+This 3D printed tool is suitable for users with disabilities effecting the finger, such as arthritis, osteoarthritis, spinal cord injuries, Ehlers-Danos, among others.
 
 <img src="Photos/Beverage_Can_Opener_Close-up.jpg" width="500" alt="Picture of Printlab Can Opener.">
 
 ## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/beverage-can-opener-from-printlab/)
+- [Makers Making Change Assistive Device Library Page](https://www.makersmakingchange.com/product/beverage-can-opener/01tJR000000690ZYAQ)
 
 ## How to Obtain a Beverage Can Opener
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -13,7 +15,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Beverage Can Opener, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/beverage-can-opener/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Beverage Can Opener, you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/product/beverage-can-opener/01tJR000000690ZYAQ). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -48,16 +50,21 @@ Detailed instructions about 3D Printing settings can be found in the [3D Printin
 [3D Printing Files](/Build_Files/3D_Print_Files)
 
 ## Attribution
-Original design by Jason Yeung.
-Minor modifications to design and documentation by Neil Squire / Makers Making Change under the CC-BY-SA 4.0 License.
-More information about Printlab can be found on their website: https://weareprintlab.com/  under the CC-BY-SA 4.0 License.
+Original design by Jason Yeung of PrintLab used under a CC-BY-SA 4.0 License. More information about Printlab can be found on their website: https://weareprintlab.com/  
 
+Minor modifications to design and documentation by Neil Squire / Makers Making Change.
 
 ## License
-Everything needed or used to design, make, test, or prepare the Beverage Can Opener is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Copyright (c) 2024-2025 Neil Squire / Makers Making Change.
 
+This repository describes Open Hardware:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><Device-Name></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+ - Everything needed or used to design, make, test, or prepare the Beverage Can Opener is licensed under the CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later .
+ - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Beverage Can Opener are published under a Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0) .
+
+You may redistribute and modify this documentation and make products using it under the terms of the CERN-OHL-W v2. This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-W v2 for applicable conditions.
+
+Source Location: https://github.com/makersmakingchange/Beverage_Can_Opener
 
 
 ---
